@@ -3,7 +3,7 @@
 Simulates a traffic light using ladder logic in LogixPro.
 
 ### Features:
-- Green → Yellow → Red cycle
+- Green (5 sec)→ Yellow (2 sec) → Red cycle (5 sec)
 - Controlled with TON timers
 - Cycle resets using `.DN` and `.TT` logic
 - Lights tied to timer timing bits
