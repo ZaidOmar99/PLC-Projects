@@ -7,8 +7,8 @@ Each project is organized in its own folder and includes ladder logic files, scr
 ## 📂 Projects Included
 
 <!-- [Water Tank Control System](./Water-Tank-Control-System)  
-<!--  Simulates automatic tank filling and draining using level sensors, pumps, and interlocks. Demonstrates sequential logic and safety constraints.
-
+  Simulates automatic tank filling and draining using level sensors, pumps, and interlocks. Demonstrates sequential logic and safety constraints.
+-->
 - [Traffic Light Control System](./Traffic-light)  
   Implements a timer-based state machine for managing intersection traffic lights with proper light sequencing and delays.
 
